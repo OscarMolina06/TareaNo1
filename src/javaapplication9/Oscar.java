@@ -4,10 +4,18 @@
  */
 package javaapplication9;
 
+import java.util.Scanner;
+
 /**
  *
  * @author oscar
  */
 public class Oscar {
-    
+    public static void main(String[] args) {
+        System.out.println("Ingrese su nombre y appellidos: ");
+        Scanner dato = new Scanner (System.in);
+        String nombre = dato.nextLine();
+        
+        System.out.println("El nombre y apellidos es usuario es: " + nombre);
+    }
 }

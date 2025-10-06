@@ -16,12 +16,7 @@ public class JavaApplication9 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner dato = new Scanner (System.in);
-        //Pedir nombre y appellidos al usuario
-        System.out.println("Ingrese su nombre y apellidos: ");
-        String nombre = dato.nextLine();
-        
-        System.out.println("El nombre y apellido del usuario es: " + nombre);
+       
     }
     
 }

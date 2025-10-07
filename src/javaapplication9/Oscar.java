@@ -16,6 +16,6 @@ public class Oscar {
         Scanner dato = new Scanner (System.in);
         String nombre = dato.nextLine();
         
-        System.out.println("El nombre y apellidos es usuario   es: " + nombre);
+        System.out.println("El nombre y apellidos es usuario Oscar es: " + nombre);
     }
 }

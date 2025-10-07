@@ -35,3 +35,6 @@ https://github.com/OscarMolina06/TareaNo1/pulls
 **Imagenes del conflicto**
 
 <img width="1253" height="271" alt="image" src="https://github.com/user-attachments/assets/69d776c7-eb46-4105-89bd-ee6262f48e14" />
+
+<img width="1094" height="746" alt="image" src="https://github.com/user-attachments/assets/345c86c8-6e86-42b7-9d11-65bca00f67e0" />
+

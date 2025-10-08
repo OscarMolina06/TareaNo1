@@ -13,9 +13,9 @@ import java.util.Scanner;
 public class Oscar {
     public static void main(String[] args) {
         System.out.println("Ingrese su nombre y appellidos: ");
-        Scanner dato = new Scanner (System.in);
-        String nombre = dato.nextLine();
+        Scanner dato2 = new Scanner (System.in);
+        String valor = dato2.nextLine();
         
-        System.out.println("El nombre y apellidos del usuario es::  " + nombre);
+        System.out.println("El nombre y apellidos del la persona es:  " + valor);
     }
 }

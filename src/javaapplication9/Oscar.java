@@ -12,10 +12,14 @@ import java.util.Scanner;
  */
 public class Oscar {
     public static void main(String[] args) {
-        System.out.println("Ingrese su nombre y appellidos: ");
-        Scanner dato2 = new Scanner (System.in);
+        Scanner dato2 = new Scanner(System.in);
+
+        System.out.println("Ingrese su nombre y apellidos: ");
         String valor = dato2.nextLine();
+
         
-        System.out.println("El nombre y apellidos del la persona es:  " + valor);
+        System.out.println("El nombre completo registrado por LEO: " + valor);
+
+        dato2.close();
     }
 }

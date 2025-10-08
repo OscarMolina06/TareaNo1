@@ -15,8 +15,11 @@ public class Leo {
         System.out.println("Ingrese su telefono: ");
         Scanner dato = new Scanner (System.in);
         String cel = dato.nextLine();
-        
+        System.out.println("Ingrese su email: ");
+        String email = dato.nextLine();
         System.out.println("Su Telefono es: " + cel);
+        System.out.println("Su email es: " + email);
+
     }
     
     

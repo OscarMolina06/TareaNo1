@@ -12,11 +12,11 @@ import java.util.Scanner;
  */
 public class Leo {
     public static void main(String[] args) {
-        System.out.println("Ingrese su ID ");
+        System.out.println("Ingrese su telefono: ");
         Scanner dato = new Scanner (System.in);
-        String ID = dato.nextLine();
+        String cel = dato.nextLine();
         
-        System.out.println("Ingrese su ID: " + ID);
+        System.out.println("Su Telefono es: " + cel);
     }
     
     
